@@ -1,0 +1,29 @@
+{
+  "id": 72829,
+  "title": "First Blood in Game 1?",
+  "question": "First Blood in Game 1?",
+  "conditionId": "0xfcdc4b74aa8179cbb51c69ba1a094cfebf99b784510321bdd80c67b93443dc0c",
+  "resolverAddress": "0x8403922ad0c5d39B4148e17C86095cAf10B37E50",
+  "oracleQuestionId": "0x7ce661b0ea0062a722a9fad9833ae275861307926fbf5eff5d282389079c6929",
+  "isNegRisk": false,
+  "isYieldBearing": false,
+  "feeRateBps": 200,
+  "decimalPrecision": 2,
+  "marketVariant": "DEFAULT",
+  "status": "REGISTERED",
+  "tradingStatus": "OPEN",
+  "outcomes": [
+    {
+      "indexSet": 1,
+      "name": "Cloud9",
+      "onChainId": "12723470295927997005591429032016946047344374045078339206225302506313975527799",
+      "status": null
+    },
+    {
+      "indexSet": 2,
+      "name": "RED Canids",
+      "onChainId": "66100295494026117689691193272997657936075615289731125308266914975031974519236",
+      "status": null
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "predict-fun-decoder",
+  "version": "0.1.0",
+  "description": "Predict.fun trade decoder and market decoder in JavaScript",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "trade": "node src/trade_decoder.js",
+    "market": "node src/market_decoder.js",
+    "demo": "node src/demo_validate.js",
+    "test": "node --test test/*.test.js"
+  },
+  "dependencies": {
+    "commander": "^11.1.0",
+    "ethers": "^6.13.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
